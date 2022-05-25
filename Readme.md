@@ -52,4 +52,9 @@ imblearn, SMOTE, ADASYN, RandomOverSampler, Pipeline, make_pipeline, TomekLinks,
 
 **Tags:** sklearn, StandardScaler, DummyRegressor, LinearRegression, LogisticRegression, HuberRegressor, PassiveAggressiveRegressor, ARDRegression, BayesianRidge, SGDRegressor, BaggingRegressor,  HistGradientBoostingRegressor, AdaBoostRegressor, KNNImputer, cross_val_score, cross_validate, KFold
 optuna, imblearn, pipeline, ttest, outliers
-    
+
+
+### Project 10. Matrix and Linear transformations. Protection Personal Data
+**Description:** Creating linear transformation to protect personal data withoul losses in quality linear regression model
+
+**Tags:** matrix, normalize, linear transformation, linalg, det, inv, dot, 
